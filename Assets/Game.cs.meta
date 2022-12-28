@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c7b0caa8a564679488d543ff05e1c848
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gridCellPrefab: {fileID: 7275001948126502028, guid: 7346a3a2da7266f4fb173a250dfd6158, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
